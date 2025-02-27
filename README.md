@@ -37,7 +37,7 @@ Para utilizar o projeto:
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu_usuario/cofrinho-java.git
+   git clone https://github.com/gaboliveiradev/exercicio-cofrinho.git
    ```
 
 2. Abra o projeto em sua IDE preferida.
