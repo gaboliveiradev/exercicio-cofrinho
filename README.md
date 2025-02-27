@@ -74,7 +74,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para d
 
 👤 **Gabriel Oliveira**  
 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielszoliveira/)
-
-## 📌 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
